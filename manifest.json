@@ -1,0 +1,24 @@
+{
+  "short_name": "Sổ doanh thu AI",
+  "name": "Sổ doanh thu AI - Thông minh & Tiện lợi",
+  "description": "Ứng dụng hỗ trợ hộ kinh doanh lập Sổ chi tiết doanh thu (Mẫu S1a-HKD) bằng giọng nói và AI.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#1e40af",
+  "background_color": "#ffffff",
+  "orientation": "portrait"
+}

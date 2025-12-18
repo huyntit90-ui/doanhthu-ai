@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Sổ Doanh Thu S1a-HKD Thông Minh",
+  "description": "Ứng dụng hỗ trợ hộ kinh doanh lập Sổ chi tiết doanh thu (Mẫu S1a-HKD) bằng giọng nói và AI, xuất file PDF/Word đúng chuẩn Bộ Tài chính.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
